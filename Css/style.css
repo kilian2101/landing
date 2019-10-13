@@ -1,0 +1,21 @@
+@import url("components/container.css")
+@import url("https://fonts.googleapis.com/css?family=Darker+Grotesque|Squada+One&display=swap")
+@import url("components/process.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/Bracket.css");
+@import url("https://fonts.googleapis.com/css?family=Anton&display=swap")
+
+
+
+body {
+	font-family: 'Anton', serif;
+	font-size: 25px;
+	margin: 0px;	
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-family: 'Anton', serif;
+	font-weight: bold;	
+}
